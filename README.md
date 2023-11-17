@@ -4,5 +4,12 @@ This CRUD application for managing evaluation process on engineering competition
 
 Django based API for integration with custom frontend application or spreadsheets data gathering.
 
+## Install
+
+TODO
+
+## Usage
+
+TODO
 
 
